@@ -555,3 +555,5 @@ The author's personal channel: [t.me/LLM_PoJia](https://t.me/LLM_PoJia). Notes a
 
 ---
 
+Thanks to the [LINUX DO](https://linux.do) community
+

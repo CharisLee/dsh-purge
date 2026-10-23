@@ -565,3 +565,5 @@ flowchart LR
 - 安装走 GitHub 归档（npm 上没有这个包）：`dsh plugin --profile web add https://github.com/YuJunZhiXue/dsh-purge/archive/refs/heads/master.tar.gz`（桌面端把 profile 换成 `desktop`）。当前目录已是本仓库时 `add .`。
 
 ---
+
+感谢 [LINUX DO](https://linux.do) 社区
